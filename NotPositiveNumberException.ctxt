@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NotPositiveNumberException
+comment0.text=\r\n\ Exception\ to\ be\ thrown\ if\ variable\ onces\ is\ detected\ to\ be\ less\ then\ zero.\r\n\ \r\n\ @author\ Kian\ R\ Frawley\r\n\ @version\ 10/25/21\r\n
+comment1.params=
+comment1.target=NotPositiveNumberException()
+comment1.text=\r\n\ Constructor\ used\ to\ pass\ hardcoded\ message\ to\ Exception.\r\n
+comment2.params=message
+comment2.target=NotPositiveNumberException(java.lang.String)
+comment2.text=\r\n\ Constructor\ used\ to\ take\ a\ single\ parameter\ and\ pass\ that\ to\ Exception\r\n\ \r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TooHotException
+comment0.text=\r\n\ Exception\ to\ be\ thrown\ when\ variable\ temperature\ is\ greater\ then\ to\ static\ TOO_HOT.\ \r\n\r\n\ @author\ Kian\ R\ Frawley\r\n\ @version\ 10/25/21\r\n
+comment1.params=
+comment1.target=TooHotException()
+comment1.text=\r\n\ Constructor\ used\ to\ pass\ a\ hard\ coded\ message\ to\ superclass\ Exception.\r\n\ \r\n
+comment2.params=message
+comment2.target=TooHotException(java.lang.String)
+comment2.text=\r\n\ Constructor\ used\ to\ take\ a\ single\ parameter\ and\ then\ send\ that\ to\ its\ super.\r\n\ \r\n\ @param\ message\ A\ String\ that\ will\ be\ passed\ to\ a\ superclass\ constructor.\r\n
+numComments=3

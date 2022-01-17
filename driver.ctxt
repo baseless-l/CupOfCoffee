@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=driver
-comment0.text=\r\n\ Driver\ for\ class\ CupOfCoffee\ will\ prompt\ the\ user\ to\ define\ all\ three\ \r\n\ data\ fields\ for\ an\ instance\ of\ CupOfCoffee\ object\ while\ catching\ any\ errors.\r\n\ Then\ output\ information\ about\ the\ users\ coffee\ if\ no\ error\ is\ detected.\ \r\n\r\n\ @author\ Kian\ R\ Frawley\r\n\ \r\n\ @version\ 10/25/21\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
